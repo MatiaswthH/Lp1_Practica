@@ -1,1 +1,4 @@
-# Programacion2 Practica\nBuena suerte chicos, espero que les sirva mucho estos ejercicios
+# Programacion2 Practica
+Buena suerte chicos, espero que les sirva mucho estos ejercicios
+
+
